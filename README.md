@@ -1,6 +1,4 @@
-# Relicario_BubbleGum
-📜 Um antiquário sensível feito sob curadoria de mundos esquecidos 🍬
-# 🫧 Relicário_BubbleGum
+## 🫧 Relicário_BubbleGum
 
 📜 *Um antiquário sensível feito sob curadoria de mundos esquecidos* 🍬  
 ✧ *Algumas coisas não cabem em algoritmos.*  
